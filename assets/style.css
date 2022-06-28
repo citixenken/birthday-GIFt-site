@@ -18,3 +18,14 @@ p {
   border-radius: 50%;
   border: 6px solid #efb0c9;
 }
+
+h2,
+h4 {
+  background: #efb0c9;
+}
+
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
